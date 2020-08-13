@@ -19,14 +19,15 @@ I'm** Jiang Dade**, a senior high school student from Wuhan, China.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/ouuan">
-        <img src="https://avatars2.githubusercontent.com/u/30581822?s=400&u=671a1aee13e77f68470fcb72fffa02fcbc46ee2a&v=4" width="100px;" alt="ouuan"/>
+      <a href="https://github.com/jasonmayes">
+        <img src="https://avatars2.githubusercontent.com/u/4972997?s=400&u=544618e3cdc281c2761f70b3143a4c294d88960f&v=4" width="100px;" alt="jasonmayes"/>
       </a>
       <br />
-      <a href="https://github.com/ouuan">ouuan</a>
+      <a href="https://github.com/jasonmayes">ouuan</a>
     </td>
   </tr>
 </table>
+
 <!--END_SECTION:top-followers-->
 
 ---
