@@ -2,7 +2,7 @@
 
 <img align="right" alt="thejiangcj's github stats" width="50%" src='https://github-readme-stats.vercel.app/api?username=thejiangcj&show_icons=true'>
 
-I'm** Jiang Dade**, a senior high school student from Wuhan, China.
+I'm **Jiang Dade** , a senior high school student from Wuhan, China.
 
 -   :hammer_and_pick: Python/GitHub Actions, a little bit c++
 -   :package: Building [Competition-utils](https://github.com/thejiangcj/competition-utils) and more
@@ -24,6 +24,13 @@ I'm** Jiang Dade**, a senior high school student from Wuhan, China.
       </a>
       <br />
       <a href="https://github.com/jasonmayes">Jason Mayes</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/cenchaojun">
+        <img src="https://avatars3.githubusercontent.com/u/48192514?s=400&v=4" width="100px;" alt="cenchaojun"/>
+      </a>
+      <br />
+      <a href="https://github.com/cenchaojun">岑朝君</a>
     </td>
   </tr>
 </table>
