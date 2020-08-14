@@ -23,7 +23,7 @@ I'm** Jiang Dade**, a senior high school student from Wuhan, China.
         <img src="https://avatars2.githubusercontent.com/u/4972997?s=400&u=544618e3cdc281c2761f70b3143a4c294d88960f&v=4" width="100px;" alt="jasonmayes"/>
       </a>
       <br />
-      <a href="https://github.com/jasonmayes">ouuan</a>
+      <a href="https://github.com/jasonmayes">Jason Mayes</a>
     </td>
   </tr>
 </table>
