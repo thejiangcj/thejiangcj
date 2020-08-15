@@ -6,36 +6,9 @@ I'm **Jiang Dade** , a senior high school student from Wuhan, China.
 
 -   :hammer_and_pick: Python/GitHub Actions, a little bit c++
 -   :package: Building [Competition-utils](https://github.com/thejiangcj/competition-utils) and more
--   :pencil2: Win10 &  VS Code & Notepad++ & JabRef
+-   :pencil2: WSL2 &  VS Code & Anaconda & JabRef
 -   :seedling: Learning Competition programming and algorithm
 -   :man: Pronouns: he/him
-
----
-
-#### :airplane: My Followers
-
-<!--START_SECTION:top-followers-->
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/jasonmayes">
-        <img src="https://avatars2.githubusercontent.com/u/4972997?s=400&u=544618e3cdc281c2761f70b3143a4c294d88960f&v=4" width="100px;" alt="jasonmayes"/>
-      </a>
-      <br />
-      <a href="https://github.com/jasonmayes">Jason Mayes</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/cenchaojun">
-        <img src="https://avatars3.githubusercontent.com/u/48192514?s=400&v=4" width="100px;" alt="cenchaojun"/>
-      </a>
-      <br />
-      <a href="https://github.com/cenchaojun">岑朝君</a>
-    </td>
-  </tr>
-</table>
-
-<!--END_SECTION:top-followers-->
 
 ---
 
